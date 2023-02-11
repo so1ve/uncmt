@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@antfu/ni': ^0.18.8
+  '@antfu/ni': ^0.20.0
   '@so1ve/eslint-config': ^0.32.3
   '@vitejs/plugin-vue': ^4.0.0
   '@waline/client': ^2.14.2
@@ -18,7 +18,7 @@ dependencies:
   '@waline/client': 2.14.2
 
 devDependencies:
-  '@antfu/ni': 0.18.8
+  '@antfu/ni': 0.20.0
   '@so1ve/eslint-config': 0.32.3_ha6vam6werchizxrnqvarmz2zu
   '@vitejs/plugin-vue': 4.0.0_vite@4.0.1+vue@3.2.45
   bumpp: 8.2.1
@@ -32,8 +32,8 @@ devDependencies:
 
 packages:
 
-  /@antfu/ni/0.18.8:
-    resolution: {integrity: sha512-0m++AudwQq+wWAz/Ax7g+sh/wFW51HHQ6BtPLsuTAsFIzWB/bv/0COwZE7BRS+u0nqMb6Ks6nlk6cY1TpPDwHg==}
+  /@antfu/ni/0.20.0:
+    resolution: {integrity: sha512-mBgAuq2b0daSA/14LMyjEjaInD7/Zd7KVXZge7bQPKmtQJFqy9/pWBml6DMkMreeHQEomMtIbbeqReNJ/74kjA==}
     hasBin: true
     dev: true
 
