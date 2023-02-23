@@ -58,7 +58,7 @@
     "unplugin-auto-import": "^0.12.1",
     "unplugin-vue-components": "^0.22.12",
     "vite": "^4.0.0",
-    "vite-plugin-dts": "^1.7.1",
+    "vite-plugin-dts": "^2.0.0",
     "vue": "^3.2.45"
   },
   "pnpm": {
